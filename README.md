@@ -7,7 +7,6 @@
 1. 지문
  - CNN모델 사용
  - ![image](https://user-images.githubusercontent.com/62167576/119311075-93cc4780-bcab-11eb-95f9-34b887fbba15.png)
-
 2. 얼굴
  - CNN모델 사용
  - ![image](https://user-images.githubusercontent.com/62167576/119311140-a6df1780-bcab-11eb-9e9b-0b886d95d377.png)
